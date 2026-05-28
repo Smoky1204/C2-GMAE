@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+logs/
+runs/
+checkpoints/
+*.log
+*.pth
+*.ckpt
+node_level/dataset/*.pt
+!node_level/dataset/Texas.pt
+graph_level/dataset/
