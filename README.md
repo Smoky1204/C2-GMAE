@@ -1,6 +1,6 @@
-# C2-GMAE Code Release
+# Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder
 
-This repository contains the node-level and graph-level experimental code.
+This is the Pytorch implementation for "Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder"
 
 ## Structure
 
